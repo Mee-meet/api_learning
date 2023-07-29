@@ -1,5 +1,5 @@
 # api_learning
-simple GET api call
+simple api call in react native
 
 
 
